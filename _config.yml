@@ -31,7 +31,7 @@ people:
   pic: 5
   position: Project Leader
   social:
-    - title: researchgate
+    - title: dribbble
       url: https://www.researchgate.net/profile/Pablo_Ramirez-Barajas
     - title: facebook
       url: https://www.facebook.com/pablo.ramirezbarajas
@@ -53,12 +53,12 @@ people:
   pic: 3
   position: Researcher, Botanist
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/pub/violeta-par%C3%A9s-jim%C3%A9nez/86/92/60a/en
     - title: facebook
       url: https://www.facebook.com/violeta.paresjimenez
-    - title: google-plus
-      url: #
+    - title: envelope
+      url: mailto:violeta.pares.jimenez@gmail.com
 
 - name: Sueanny Espinoza
   pic: 1
