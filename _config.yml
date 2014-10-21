@@ -31,11 +31,13 @@ people:
   pic: 2
   position: Project Leader
   social:
+    - title: researchgate
+      url: https://www.researchgate.net/profile/Pablo_Ramirez-Barajas
     - title: facebook
       url: https://www.facebook.com/pablo.ramirezbarajas
     - title: envelope
       url: mailto:pjrbarajas@gmail.com
-	  
+
 - name: Laura Cervera
   pic: 1
   position: Researcher, Ecologist
