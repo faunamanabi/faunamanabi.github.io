@@ -9,7 +9,7 @@ thumbnail: venado-thumbnail.png
 alt: image-alt
 project-date: August 2014
 conservation: Least Concern
-category: Web Development
+MammaliaWebEcuador: http://zoologia.puce.edu.ec/Vertebrados/mamiferos/MamiferosEcuador/Busqueda.aspx
 description: White-tailed deer (Odocoileus virginianus) are present specially in Machalilla National Park
 
 ---
