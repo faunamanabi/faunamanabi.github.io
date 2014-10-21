@@ -60,18 +60,39 @@ people:
     - title: google-plus
       url: #
 
+- name: Sueanny Espinoza
+  pic: 3
+  position: Data assistant
+  social:
+    - title: envelope
+      url: mailto:sueanny@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/
+    - title: google-plus
+      url: https://plus.google.com/u/0/118076742957644910177/about
+	  
+- name: Diana Poaquiza
+  pic: 3
+  position: Data assistant
+  social:
+    - title: envelope
+      url: mailto:acpoaquiza@gmail.com
+    - title: facebook
+      url: https://www.facebook.com/
+    - title: google-plus
+      url: https://plus.google.com/u/0/102476575988784604118/about
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  - title: flickr
+    url: http://www.flickr.com
+  - title: iNaturalist 
+    url: https://www.inaturalist.org/projects/fauna-de-manabi
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/faunamanabi
 
 # Postal address (add as many lines as necessary)
 address:
