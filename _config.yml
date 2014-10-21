@@ -14,10 +14,12 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Diego Lizcano
-  pic: 1
+- name: Diego J. Lizcano
+  pic: 4
   position: Project Leader
   social:
+    - title: github
+      url: https://github.com/dlizcano
     - title: twitter
       url: https://twitter.com/dlizcano
     - title: facebook
@@ -25,8 +27,19 @@ people:
     - title: envelope
       url: mailto:dj.lizcano@gmail.com
 
-- name: Laura Cervera
+- name: Pablo J. Ramírez Barajas
   pic: 2
+  position: Project Leader
+  social:
+    - title: researchgate
+      url: https://www.researchgate.net/profile/Pablo_Ramirez-Barajas
+    - title: facebook
+      url: https://www.facebook.com/pablo.ramirezbarajas
+    - title: envelope
+      url: mailto:pjrbarajas@gmail.com
+	  
+- name: Laura Cervera
+  pic: 1
   position: Researcher, Ecologist
   social:
     - title: twitter
