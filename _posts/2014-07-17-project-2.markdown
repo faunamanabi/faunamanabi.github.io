@@ -8,7 +8,7 @@ img: venado.png
 thumbnail: venado-thumbnail.png
 alt: image-alt
 project-date: August 2014
-client: Start Bootstrap
+conservation status: Least Concern
 category: Web Development
 description: White-tailed deer (Odocoileus virginianus) are present specially in Machalilla National Park
 
