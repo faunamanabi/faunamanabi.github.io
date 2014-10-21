@@ -3,8 +3,8 @@ baseurl:
 
 # Site settings
 title: Fauna of Manabi
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: faunamanabi@gmail.com
+description: "Project: Caracterización ecológica de la fauna mediana y grande en áreas protegidas de la provincia de Manabí, Ecuador. Refugio de Vida Silvestre, Marino y Costero Pacoche. Parque Nacional Machalilla."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,36 +14,36 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Diego Garland
+- name: Diego Lizcano
   pic: 1
-  position: Lead Project
+  position: Project Leader
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/dlizcano
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/djlizcano
+    - title: envelope
+      url: mailto:dj.lizcano@gmail.com
 
-- name: Larry Parker
+- name: Laura Cervera
   pic: 2
-  position: Lead Marketer
+  position: Researcher, Ecologist
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/morsa.intensa
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Violeta Pares
   pic: 3
-  position: Lead Developer
+  position: Researcher, Botanist
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
+      url: https://www.facebook.com/violeta.paresjimenez
     - title: google-plus
       url: #
 
@@ -62,8 +62,9 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Departamento Central de Investigación
+  - line: Universidad Laica Eloy Alfaro de Manabí
+  - line: Manta, Ecuador.
 
 # Build settings
 markdown: kramdown
