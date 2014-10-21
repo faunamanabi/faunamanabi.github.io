@@ -1,10 +1,10 @@
-url: https://faunamanabi.github.io
+url: https://faunamanabi.github.io/
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Fauna of Manabi, Ecuador
-email: faunamanabi@gmail.com
-description: "Proyecto: Caracterización ecológica de la fauna mediana y grande en áreas protegidas y fragmentadas de la provincia de Manabí, Ecuador. Universidad Laica Eloy Alfaro de Manabí, Manta"
+title: Awesome Title here
+email: your-email@domain.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Diego J. Lizcano
+- name: Diego Garland
   pic: 1
-  position: Lead Project
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Pablo Ramirez Barajas
+- name: Larry Parker
   pic: 2
-  position: Lead Project
+  position: Lead Marketer
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Laura Cervera
+- name: Diana Petersen
   pic: 3
-  position: Researcher
+  position: Lead Developer
   social:
     - title: twitter
       url: #
@@ -58,13 +58,12 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/faunamanabi
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Departamento Central de Investigación
-  - line: Universidad Laica Eloy Alfaro de Manabí
-  - line: Manta, Ecuador
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
