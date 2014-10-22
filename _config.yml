@@ -50,15 +50,13 @@ people:
       url: http://www.aem.mamiferosdelecuador.com/miembros/lista/172-cervera-laura.html
 
 - name: Violeta Pares
-  pic: 3
+  pic: 9
   position: Researcher, Botanist
   social:
     - title: linkedin
       url: https://www.linkedin.com/pub/violeta-par%C3%A9s-jim%C3%A9nez/86/92/60a/en
-    - title: facebook
-      url: https://www.facebook.com/violeta.paresjimenez
     - title: envelope
-      url: mailto:violeta.pares.jimenez@gmail.com
+      url: mailto:violeta.pares@uleam.edu.ec
 
 - name: Sueanny Espinoza
   pic: 8
