@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2014
 conservation: Least Concern
 details: http://eol.org/pages/328482/overview
-description: The Armadillo (Dasypus novemcinctus) is one of the most abundant mammals in the region.
+description: The Armadillo (<i>Dasypus novemcinctus</i>) is one of the most abundant mammals in the region.
 
 ---

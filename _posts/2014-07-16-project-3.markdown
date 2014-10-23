@@ -10,6 +10,6 @@ alt: image-alt
 project-date: September 2014
 conservation: Least Concern
 details: http://eol.org/pages/313991/overview
-description: The Ocelot (Leopardus pardalis) is the most abundant cat in the region
+description: The Ocelot (<i>Leopardus pardalis</i>) is the most abundant cat in the region
 
 ---

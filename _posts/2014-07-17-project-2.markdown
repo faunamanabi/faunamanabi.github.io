@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2014
 conservation: Least Concern
 details: http://eol.org/pages/328652/overview
-description: White-tailed deer (Odocoileus virginianus) are present specially in Machalilla National Park
+description: White-tailed deer (<i>Odocoileus virginianus</i>) are present specially in Machalilla National Park
 
 ---
