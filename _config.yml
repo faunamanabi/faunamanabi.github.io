@@ -85,7 +85,7 @@ people:
   position: Field assistant
   social:
     - title: envelope
-      url: i_do_not_have_email_yet@gmail.com
+      url: mailto:i_do_not_have_email_yet@gmail.com
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
