@@ -85,8 +85,8 @@ people:
   position: Field assistant
   social:
     - title: envelope
-      url: mailto:notyet@hotmail.com 
-	  
+      url: 
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
