@@ -10,6 +10,6 @@ alt: image-alt
 project-date: August 2014
 conservation: Least Concern
 details: http://eol.org/pages/328036/overview
-description: The Tayra ( _Eira barbara_ ) seems to be common in Machalilla and Pacoche as well.
+description: The Tayra ( *Eira barbara* ) seems to be common in Machalilla and Pacoche as well.
 
 ---
