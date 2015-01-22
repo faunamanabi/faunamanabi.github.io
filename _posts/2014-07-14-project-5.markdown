@@ -1,15 +1,14 @@
 ---
 title: More
-subtitle: Coming Soon
+subtitle: Visit our iNaturalist
 layout: default
 modal-id: 5
 date: 2014-07-14
-img: more.png
+img: more2.png
 thumbnail: more-thumbnail.png
 alt: image-alt
 project-date: September 2014
 more: http://www.inaturalist.org/observations/project/2698 
-details: 
-description: Fore more please visit us in iNaturalist
+description: Please visit us in iNaturalist
 
 ---
