@@ -2,7 +2,7 @@
 title: Squirrel
 subtitle: Squirrel
 layout: default
-modal-id: 6
+modal-id: 4
 date: 2015-01-21
 img: ardilla.png
 thumbnail: ardilla-thumbnail.png
