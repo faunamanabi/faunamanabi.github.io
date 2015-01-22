@@ -1,0 +1,44 @@
+---
+title: More
+subtitle: Coming Soon
+layout: default
+modal-id: 6
+date: 2015-01-21
+img: more.png
+thumbnail: more-thumbnail.png
+alt: image-alt
+project-date: January 2015
+conservation: 
+details: <style type="text/css" media="screen">
+.inat-widget { font-family: Georgia, serif; padding: 10px; line-height: 1;}
+.inat-widget-header {margin-bottom: 10px;}
+.inat-widget td {vertical-align: top; padding-bottom: 10px;}
+.inat-label { color: #888; }
+.inat-meta { font-size: smaller; margin-top: 3px; line-height: 1.2;}
+.inat-observation-body, .inat-user-body { padding-left: 10px; }
+.inat-observation-image {text-align: center;}
+.inat-observation-image, .inat-user-image { width: 48px; display: inline-block; }
+.inat-observation-image img, .inat-user-image img { max-width: 48px; }
+.inat-observation-image img { vertical-align: middle; }
+.inat-widget-small .inat-observation-image { display:block; float: left; margin: 0 3px 3px 0; height:48px;}
+.inat-label, .inat-value, .inat-user { font-family: "Trebuchet MS", Arial, sans-serif; }
+.inat-user-body {vertical-align: middle;}
+.inat-widget td.inat-user-body {vertical-align: middle;}
+</style>
+<div class="inat-widget">
+    <div class="inat-widget-header"><a href="http://www.inaturalist.org/"><img alt="iNaturalist.org" src="http://d3iih28jz42tpt.cloudfront.net/assets/logo-small-2ff390dfdd80282ac9232a56461c9d8d.gif" /></a></div>
+  <script type="text/javascript" charset="utf-8" src="//www.inaturalist.org/observations/project/2698.widget?layout=large&limit=5&order=desc&order_by=observed_on"></script>
+  <table>
+    <tr class="inat-user">
+      <td class="inat-value">
+        <strong>
+            <a href="http://www.inaturalist.org/observations/project/2698">View more observations from Vertebrados de Manabi on <nobr>iNaturalist.org »</nobr></a>
+        </strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+description: More mammals and birds will be posted soon...
+
+---
