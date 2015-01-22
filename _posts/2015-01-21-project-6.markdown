@@ -9,7 +9,7 @@ thumbnail: ardilla-thumbnail.png
 alt: image-alt
 project-date: January 2015
 conservation: 
-details: 
-description: http://www.inaturalist.org/observations/project/2698 
+details: http://www.inaturalist.org/observations/project/2698
+description:  
 
 ---
