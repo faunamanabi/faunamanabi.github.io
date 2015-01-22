@@ -7,7 +7,6 @@ date: 2014-07-14
 img: more2.png
 thumbnail: more-thumbnail.png
 alt: image-alt
-project-date: September 2014
 more: http://www.inaturalist.org/observations/project/2698 
 description: Please visit us in iNaturalist
 
