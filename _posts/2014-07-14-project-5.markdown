@@ -8,8 +8,8 @@ img: more.png
 thumbnail: more-thumbnail.png
 alt: image-alt
 project-date: September 2014
-conservation: 
+more: http://www.inaturalist.org/observations/project/2698 
 details: 
-description: More mammals and birds will be posted soon...
+description: Fore more please visit us in iNaturalist
 
 ---
