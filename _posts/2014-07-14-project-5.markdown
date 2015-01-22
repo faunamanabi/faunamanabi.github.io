@@ -9,5 +9,4 @@ thumbnail: more-thumbnail.png
 alt: image-alt
 more: http://www.inaturalist.org/observations/project/2698 
 description: Please visit us in iNaturalist
-
 ---
