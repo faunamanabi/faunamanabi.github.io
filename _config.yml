@@ -81,10 +81,14 @@ people:
       url: https://www.facebook.com/diana.poaquiza
     - title: google-plus
       url: https://plus.google.com/u/0/102476575988784604118/about
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> origin/master
 - name: Carlos Ramirez
   pic: 2
-  position: Auxiliar student (Pasante)
+  position: Nat. resources student (Pasante)
   social:
     - title: envelope
       url: cwrc23@gmail.com
@@ -92,6 +96,7 @@ people:
       url: https://www.facebook.com/
     - title: google-plus
       url: https://plus.google.com/u/0/112294597751991100138/about
+
 - name: Ernesto Merchán
   pic: 1
   position: Field assistant
