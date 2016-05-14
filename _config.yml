@@ -1,5 +1,5 @@
 url: https://faunamanabi.github.io/
-baseurl: 
+baseurl:
 
 # Site settings
 title: Fauna of Manabi
@@ -9,7 +9,7 @@ description: "Project: Caracterización ecológica de la fauna mediana y grande 
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: fed136
-  secondary: fec503  
+  secondary: fec503
   secondary-dark: 333
 
 # Team names, titles and social links
@@ -102,10 +102,10 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/faunamanabi
+    url: http://twitter.com/dlizcano
   - title: flickr
     url: https://www.flickr.com/photos/128565749@N04/sets/
-  - title: dribbble 
+  - title: dribbble
     url: https://www.inaturalist.org/projects/fauna-de-manabi
   - title: github
     url: https://github.com/faunamanabi
